@@ -1,5 +1,5 @@
 # Car_Price_Driver
-Link to Jupyter notebook:
+Link to Jupyter notebook: https://github.com/ninakaushik/Car_Price_Driver/blob/main/prompt_II.ipynb
 
 Vehicle Pricing Analysis
 
